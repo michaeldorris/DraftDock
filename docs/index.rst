@@ -3,6 +3,11 @@ System Mechanic Member Sign In Guide – Access or Log into Your IOLO Account Po
 
 If you're an existing customer trying to access your performance tools, understanding how to perform a **system mechanic member sign in** is essential. Whether you need to update your subscription, reinstall software, or activate a new device, your **iolo system mechanic log in** is the key to your personalized dashboard.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with IOLO</a>
+   </div>
 This guide walks you through the exact steps for **system mechanic member sign in**, troubleshooting login issues, password recovery, and everything else you need to manage your IOLO account effectively.
 
 By the end, you’ll know how to **iolo system mechanic log in** successfully on desktop or mobile and make full use of your subscription.
